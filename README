@@ -1,0 +1,11 @@
+Authos: Andres Felipe Barco
+File: Part of the thesis for master in computer science
+Data: June 8, 2012
+
+To use the k-stores interpreter you should
+
+1) Install the SWI-Prolog environmente: http://www.swi-prolog.org/
+2) Open a command line terminal
+3) Start the SWI-Prolog environment: swipl
+4) Load the k-stores module: ['eccp.pl'].
+5) Start writing programs
